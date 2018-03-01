@@ -1,0 +1,19 @@
+{
+  "name": "node_foundation_es2016_template",
+  "version": "1.0.0",
+  "description": "Blank Template with nodejs Foundation 6 Sass and s2016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexisspa9/Blank---Foundation-6-Sass-Es2016.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexisspa9/Blank---Foundation-6-Sass-Es2016/issues"
+  },
+  "homepage": "https://github.com/alexisspa9/Blank---Foundation-6-Sass-Es2016#readme"
+}
